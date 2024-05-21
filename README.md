@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif)
 <h1 align="center">Hi 👋, I'm Ayomal Banneka</h1>
-<h3 align="center">A passionate undergraduate software engineer from Sri Lanka</h3>
+<h3 align="center">A Passionate Undergraduate Software Engineer from Sri Lanka</h3>
 <img align="right" width="400" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayomalbanneka&label=Profile%20views&color=0e75b6&style=flat" alt="ayomalbanneka" /> </p>

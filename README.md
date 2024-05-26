@@ -1,15 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif)
-<h1 align="center">Hi 👋, I'm Ayomal Banneka</h1>
-<h3 align="center">A Passionate Undergraduate Software Engineer</h3>
-<img align="right" width="400" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayomalbanneka&label=Profile%20views&color=0e75b6&style=flat" alt="ayomalbanneka" /> </p>
-
-- 🔭 I’m currently studying on **Java Institute for Advanced Technology**
-
-- 🌱 I’m currently learning **Java, HTML , CSS, CSS Frameworks**
-
-- Graduated/Undergraduate **Undergraduate**
+#Who am I?
+I'm a udergraduate student as software engineer. I like to explore new technologies and languages. 
+As a undergraduate student I like to share my knowledge with others. 
 
 - 📫 How to reach me **ayomalkaushalya@gmail.com**
 

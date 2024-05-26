@@ -22,6 +22,6 @@ As a undergraduate student I like to share my knowledge with others.
 
 ### My stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayomalbanneka&show_icons=true&locale=en" alt="ayomalbanneka" alt="GitHub stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayomalbanneka&&exclude_repo=&layout=compact&theme=defult" alt="languages"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayomalbanneka&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayomalbanneka&&exclude_repo=ayomalbanneka&layout=compact&theme=dracula" alt="languages"/>
 

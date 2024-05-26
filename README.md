@@ -24,5 +24,5 @@
 ### My stats
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ayomalbanneka&show_icons=true&locale=en" alt="ayomalbanneka" alt="GitHub stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayomalbanneka&&exclude_repo=&layout=compact&theme=dracula" alt="languages"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayomalbanneka&&exclude_repo=&layout=compact&theme=defult" alt="languages"/>
 

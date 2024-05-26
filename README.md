@@ -2,8 +2,7 @@
 Hi, I'm Ayomal. I'm a udergraduate student as software engineer. I like to explore new technologies and languages. 
 As a undergraduate student I like to share my knowledge with others. 
 
-## I'm interest in
- **Gaming, photography, traveling, etc.**
+ I'm interest in Gaming, photography, traveling, etc.
 
 - ⚡ Fun fact **I love coding. It's just a another level fun for me. I don't know why :)**
 

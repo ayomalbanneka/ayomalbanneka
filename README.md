@@ -1,10 +1,11 @@
 ## Who am I?
 Hi, I'm Ayomal. I'm a udergraduate student as software engineer. I like to explore new technologies and languages. 
-As a undergraduate student I like to share my knowledge with others. I'm interest in Gaming, photography, traveling, etc.
+As a undergraduate student I like to share my knowledge with others. 
 
-- 📫 How to reach me **ayomalkaushalya@gmail.com**
+## I'm interest in
+ **Gaming, photography, traveling, etc.**
 
-- ⚡ Fun fact **I love coding**
+- ⚡ Fun fact **I love coding. It's just a another level fun for me. I don't know why :)**
 
 
 <h3 align="left">Languages and Tools Currently learning:</h3>
@@ -14,7 +15,7 @@ As a undergraduate student I like to share my knowledge with others. I'm interes
 ### Wanna connect with me?
 
 * <img src="resources/317725_linkedin_social_icon.ico" height="20"/>&nbsp; [LinkedIn](https://www.linkedin.com/in/ayomalbanneka/)
-* <img src="resources/317712_code repository_github_repository_resource_icon.ico" height="20"/>&nbsp; [GitHub](https://github.com/ayomalbanneka)
+* <img src="resources/1298743_github_git_logo_social_icon.ico" height="20"/>&nbsp; [GitHub](https://github.com/ayomalbanneka)
 * <img src="resources/1298747_instagram_brand_logo_social media_icon.ico" height="20"/>&nbsp; [Instagram](https://www.instagram.com/_ayomal____/)
 * <img src="resources/317727_facebook_social media_social_icon.ico" height="20"/>&nbsp; [Facebook](https://www.facebook.com/ayomal.kaushalya/)
 

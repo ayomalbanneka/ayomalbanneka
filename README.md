@@ -15,15 +15,10 @@ As a undergraduate student I like to share my knowledge with others.
 
 ### Wanna connect with me?
 
-* <img src="https://praneeth.gnomezgrave.com/assets/img/icons/g2.png" height="20"/>&nbsp; [Tech Reviews](https://www.youtube.com/channel/UCB9dJjRyp6gJXItrLPaZsOA)
-* <img src="https://praneeth.gnomezgrave.com/assets/img/icons/GamezGrave.png" height="20"/>&nbsp; [Gaming](https://www.youtube.com/channel/UCqadMDdlCaxzJN2qpj4UwAQ)
-* <img src="https://praneeth.gnomezgrave.com/assets/img/icons/gnome-with-a-drone.png" height="20"/>&nbsp; [Drone](https://www.youtube.com/channel/UCte9ZuMNwDFLHugTQkU--0g)
-* <img src="https://praneeth.gnomezgrave.com/assets/img/icons/linkedin.png" height="20"/>&nbsp; [LinkedIn](https://praneeth.gnomezgrave.com/assets/img/icons/linkedin.png)
-* <img src="https://praneeth.gnomezgrave.com/assets/img/icons/stackoverflow.png" height="20"/>&nbsp; [Stack Overflow](https://stackoverflow.com/users/1538258/praneeth-peiris)
-* <img src="https://praneeth.gnomezgrave.com/assets/img/icons/github.png" height="20"/>&nbsp; [GitHub](https://github.com/gnomezgrave)
-* <img src="https://praneeth.gnomezgrave.com/assets/img/icons/instagram.png" height="20"/>&nbsp; [Instagram](https://www.instagram.com/praneethpeiris/)
-* <img src="https://praneeth.gnomezgrave.com/assets/img/icons/twitter.png" height="20"/>&nbsp; [Twitter](https://twitter.com/PraneethPeiris)
-* <img src="https://praneeth.gnomezgrave.com/assets/img/icons/fb.png" height="20"/>&nbsp; [Facebook](https://www.facebook.com/gnomezGrave)
+* <img src="resources/317725_linkedin_social_icon.ico" height="20"/>&nbsp; [LinkedIn](https://www.linkedin.com/in/ayomalbanneka/)
+* <img src="resources/317712_code repository_github_repository_resource_icon.ico" height="20"/>&nbsp; [GitHub](https://github.com/ayomalbanneka)
+* <img src="resources/1298747_instagram_brand_logo_social media_icon.ico" height="20"/>&nbsp; [Instagram](https://www.instagram.com/_ayomal____/)
+* <img src="resources/317727_facebook_social media_social_icon.ico" height="20"/>&nbsp; [Facebook](https://www.facebook.com/ayomal.kaushalya/)
 
 ### My stats
 

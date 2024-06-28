@@ -20,6 +20,7 @@ As a undergraduate student I like to share my knowledge with others.
 
 ### My stats
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=ayomalbanneka&show_icons=true&locale=en&theme=darcula" alt="ayomalbanneka" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=ayomalbanneka&show_icons=true&locale=en&theme=darcula" alt="ayomalbanneka" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayomalbanneka&&exclude_repo=ayomalbanneka&layout=compact&theme=dracula" alt="languages"/>
+</p>
 

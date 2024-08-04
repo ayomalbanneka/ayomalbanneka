@@ -13,9 +13,9 @@ As a undergraduate student I like to share my knowledge with others.
 
 ### Wanna connect with me?
 
-* <img src="resources/317725_linkedin_social_icon.ico" height="20"/>&nbsp; [LinkedIn](https://www.linkedin.com/in/ayomalbanneka/)
-* <img src="resources/1298743_github_git_logo_social_icon.ico" height="20"/>&nbsp; [GitHub](https://github.com/ayomalbanneka)
-* <img src="resources/1298747_instagram_brand_logo_social media_icon.ico" height="20"/>&nbsp; [Instagram](https://www.instagram.com/_ayomal____/)
+* <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" height="20"/>&nbsp; [LinkedIn](https://www.linkedin.com/in/ayomalbanneka/)
+* <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Github-Dark.svg" height="20"/>&nbsp; [GitHub](https://github.com/ayomalbanneka)
+* <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Instagram.svg" height="20"/>&nbsp; [Instagram](https://www.instagram.com/_ayomal____/)
 * <img src="resources/317727_facebook_social media_social_icon.ico" height="20"/>&nbsp; [Facebook](https://www.facebook.com/ayomal.kaushalya/)
 
 <h3 align="center">My Statistics:</h3>

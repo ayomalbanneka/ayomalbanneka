@@ -6,11 +6,6 @@ As a undergraduate student I like to share my knowledge with others.
 
 - ⚡ Fun fact **I love coding. It's just a another level fun for me. I don't know why :)**
 
-
-<h3 align="left">Languages and Tools:</h3>
-
-
-
 ### Wanna connect with me?
 
 * <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" height="20"/>&nbsp; [LinkedIn](https://www.linkedin.com/in/ayomalbanneka/)

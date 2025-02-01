@@ -5,6 +5,7 @@ As a undergraduate student I like to share my knowledge with others.
  I'm interest in Gaming, photography, traveling, etc.
 
 - ⚡ Fun fact **I love coding. It's just a another level fun for me. I don't know why :)**
+- 🧬🔬 Curently learning **django - web framework**
 
 ### Wanna connect with me?
 

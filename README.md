@@ -1,6 +1,6 @@
 [⚠️ Suspicious Content] # 💻 Hi, I'm Ayomal Banneka! 👋
 
-🚀 **Undergraduate Software Engineer** | 💡 **Problem Solver** | 🌟 **Love to be a Open Source Enthusiast**
+🚀 **Undergraduate Software Engineer** | 💡 **Problem Solver** | 🌟 **Love to be an Open Source Enthusiast**
 
 Welcome to my GitHub profile! I'm passionate about building scalable, efficient, and innovative software solutions. I love working with modern technologies and contributing to open-source projects.
 

@@ -1,4 +1,4 @@
-[⚠️ Suspicious Content] # 💻 Hi, I'm Ayomal Banneka! 👋
+# 💻 Hi, I'm Ayomal Banneka! 👋
 
 🚀 **Undergraduate Software Engineer** | 💡 **Problem Solver** | 🌟 **Love to be an Open Source Enthusiast**
 

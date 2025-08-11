@@ -2,7 +2,7 @@
 
 🚀 **Undergraduate Software Engineer** | 💡 **Problem Solver** | 🌟 **Love to be an Open Source Enthusiast**
 
-Welcome to my GitHub profile! I'm passionate about building scalable, efficient, and innovative software solutions. I love working with modern technologies and contributing to open-source projects.
+Welcome to my GitHub profile! I'm passionate about building scalable, efficient, and innovative software solutions. I love working with modern technologies and contributing to open-source projects. I'm currently studying the DevOps path😃.
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF">

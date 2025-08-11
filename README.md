@@ -1,6 +1,6 @@
 # 💻 Hi, I'm Ayomal Banneka! 👋
 
-🚀 **Undergraduate Software Engineer** | 💡 **Problem Solver** | 🌟 **Love to be an Open Source Enthusiast**
+🚀 **Undergraduate Software Engineer** | 💡 **Problem Solver** | 🌟 **Love to be an Open Source Enthusiast** | 🔥 **Love to be a DevOps Engineer**
 
 Welcome to my GitHub profile! I'm passionate about building scalable, efficient, and innovative software solutions. I love working with modern technologies and contributing to open-source projects. I'm currently studying the DevOps path😃.
 

@@ -35,26 +35,24 @@ Welcome to my GitHub profile! I'm passionate about building scalable, efficient,
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)
 ![Apache NetBeans IDE Badge](https://img.shields.io/badge/Apache%20NetBeans%20IDE-1B6AC6?logo=apachenetbeanside&logoColor=fff&style=for-the-badge)
+![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=for-the-badge)
+---
+
+## 🚀 **Featured Projects**
+
+### **1. [Inventory Management Systemm]**
+📌 *This is a Java-based Inventory Management System project. It provides tools for managing products, stock, and related business operations. The project uses Ant for building and supports modular Java development.*  
+🔗 [GitHub Repo](https://github.com/ayomalbanneka/Inventory-Management-System) 
 
 ---
 
-<!-- ## 🚀 **Featured Projects**
-
-### **1. [Project Name]**
-📌 *Short description of the project.*  
-🔗 [GitHub Repo](https://github.com/yourusername/project) | 🌐 [Live Demo](https://yourprojectdemo.com)  
-
-![Project GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2J3c2J0d3d0Z3F0aXJtZ3R5d2N4eDZ5bGJ3bWZxZ3J5eGJ5eGZ6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/your-gif-link.gif)
-
----
-
-### **2. [Project Name]**
+<!-- ### **2. [Project Name]**
 📌 *Short description of the project.*  
 🔗 [GitHub Repo](https://github.com/yourusername/project2) | 🌐 [Live Demo](https://yourprojectdemo2.com)  
 
 ![Project GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2J3c2J0d3d0Z3F0aXJtZ3R5d2N4eDZ5bGJ3bWZxZ3J5eGJ5eGZ6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/your-gif-link-2.gif)
+-->
 
---- -->
 
 ## 📊 **GitHub Stats**
 

@@ -56,13 +56,14 @@ Welcome to my GitHub profile! I'm passionate about building scalable, efficient,
 -->
 
 
-## 📊 **GitHub Stats**
+<!--## 📊 **GitHub Stats**
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayomalbanneka&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayomalbanneka&layout=compact&theme=radical)
 
 ---
+-->
 
 ## 🤝 **Let's Connect!**
 

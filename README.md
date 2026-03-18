@@ -1,182 +1,90 @@
 <div align="center">
 
-# Hi there, I'm Ayomal Banneka 👋
+# Ayomal Banneka
 
-### Undergraduate Full-Stack Software Engineer & Aspiring DevOps Engineer
+**Full-Stack Developer → DevOps Engineer**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayomalbanneka)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayomalkaushalya@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)](https://github.com/ayomalbanneka)
-
-![Profile Views](https://komarev.com/ghpvc/?username=ayomalbanneka&color=blueviolet&style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayomalbanneka)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ayomalkaushalya@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ayomalbanneka)
+![Profile Views](https://komarev.com/ghpvc/?username=ayomalbanneka&color=blueviolet&style=flat-square)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About Me
 
 ```typescript
 const ayomal = {
-    location: "Anuradhapura, Sri Lanka 🇱🇰",
-    education: "BSc Computer Software Engineering @ Birmingham City University",
-    role: "Full-Stack Developer | DevOps Enthusiast",
-    currentFocus: ["Cloud Computing (AWS/Azure)", "Containerization", "CI/CD Pipelines"],
-    interests: ["Open Source", "Automation", "Scalable Systems"],
-    funFact: "I once automated my entire morning routine with Python! ⚡"
+  location : "Anuradhapura, Sri Lanka 🇱🇰",
+  education: "BSc Computer Software Engineering @ Birmingham City University",
+  currently : ["AWS & Azure", "Kubernetes", "CI/CD Pipelines"],
+  goal     : "DevOps Engineer specialising in cloud infrastructure",
+  funFact  : "Once automated my entire morning routine with Python ⚡"
 };
 ```
 
-I'm passionate about **bridging the gap between development and operations**, building scalable systems, and continuously improving deployment pipelines. Currently expanding my expertise in modern DevOps practices, cloud services, and automation tools.
+---
+
+## Tech Stack
+
+**Languages**
+&nbsp; ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+**Frontend**
+&nbsp;&nbsp;&nbsp; ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+**Backend**
+&nbsp;&nbsp;&nbsp;&nbsp; ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**DevOps & Cloud**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**Tools**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000?style=flat-square&logo=intellijidea&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
-## 🛠️ Tech Stack
+## Featured Project
 
-<div align="center">
+### [🗂️ Inventory Management System](https://github.com/ayomalbanneka/Inventory-Management-System)
+> Java · Apache Ant
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=for-the-badge)
-
-### Backend & Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)
-
-### DevOps & Cloud
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=for-the-badge)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=fff&style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
-
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000?logo=intellijidea&logoColor=fff&style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=for-the-badge)
-![Apache NetBeans](https://img.shields.io/badge/Apache%20NetBeans%20IDE-1B6AC6?logo=apachenetbeanside&logoColor=fff&style=for-the-badge)
-
-</div>
+A modular Java application for managing products, stock levels, and business operations — built with a clean layered architecture.
 
 ---
 
-## 📚 Certifications & Learning
+## Currently Working On
 
-<table>
-<tr>
-<td width="50%">
-
-🐳 **Docker for Absolute Beginners with Hands-on Projects**
-
-🐍 **Python for Beginners**
-
-☁️ **KodeKloud Engineer - 100 Days of Cloud (AWS) Level 1**
-
-</td>
-<td width="50%">
-
-🔧 **Introduction to Jenkins (LFS167)**
-
-🐧 **Introduction to Linux (LFS101)**
-
-📈 **Continuous Integration & Version Control**
-
-</td>
-</tr>
-</table>
-
----
-
-## 💼 Featured Projects
-
-<div align="center">
-
-### 🗂️ Inventory Management System
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://github.com/ayomalbanneka/Inventory-Management-System)
-[![Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=flat-square&logo=apache-ant&logoColor=white)](https://github.com/ayomalbanneka/Inventory-Management-System)
-
-A comprehensive Java-based inventory management system providing tools for managing products, stock, and business operations with modular architecture.
-
-**Key Features:** Product Management | Stock Control | Business Operations | Modular Design
-
-[📂 View Repository](https://github.com/ayomalbanneka/Inventory-Management-System)
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-```mermaid
-graph LR
-    A[DevOps Journey] --> B[Cloud Computing]
-    A --> C[Containerization]
-    A --> D[CI/CD Pipelines]
-    B --> E[AWS]
-    B --> F[Azure]
-    C --> G[Docker]
-    C --> H[Kubernetes]
-    D --> I[Jenkins]
-    D --> J[Automation]
+```
+☁️  AWS Solutions Architecture
+⎈  Advanced Kubernetes
+🔁  CI/CD pipeline automation
+🌐  Cloud-native application design
 ```
 
-- 🔭 Working on: **Building scalable cloud-native applications**
-- 🌱 Learning: **Advanced Kubernetes, AWS Solutions Architecture**
-- 👯 Looking to collaborate on: **Open source DevOps tools & cloud projects**
-- 💬 Ask me about: **Full-stack development, Docker, CI/CD, AWS**
-- ⚡ Goal: **Become a proficient DevOps Engineer specializing in cloud infrastructure**
-
----
-
-## 🏆 Skills Overview
-
-<div align="center">
-
-| Category | Skills |
-|----------|--------|
-| **Cloud Platforms** | AWS, Azure (Learning) |
-| **Containerization** | Docker, Kubernetes |
-| **CI/CD** | Jenkins, Git, Version Control |
-| **Programming** | Python, Java, JavaScript, PHP |
-| **Web Development** | HTML5, CSS3, Bootstrap, MySQL |
-| **Operating Systems** | Linux, Windows |
-| **Tools** | VS Code, IntelliJ IDEA, Postman, NetBeans |
-
-</div>
-
----
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-I'm always open to interesting conversations, collaboration opportunities, and new challenges!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayomalbanneka)
-[![Email](https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayomalkaushalya@gmail.com)
-
-</div>
-
 ---
 
 <div align="center">
 
-### 💭 Quote of the Day
+*Open to collaboration on open-source DevOps tools and cloud projects.*
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayomalbanneka)
+[![Email](https://img.shields.io/badge/Drop_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayomalkaushalya@gmail.com)
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-⭐ **Thanks for visiting! Feel free to explore my repositories and star what you find interesting!** ⭐
-
-
-**Last Updated:** February 2026
 
 </div>

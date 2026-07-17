@@ -1,90 +1,190 @@
 <div align="center">
 
-# Ayomal Banneka
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ayomal%20Banneka&fontSize=60&fontAlignY=35&desc=Full-Stack%20Engineer%20%E2%86%92%20DevOps%20Engineer&descAlignY=58&descSize=20&fontColor=ffffff&animation=fadeIn" width="100%" alt="header"/>
 
-**Full-Stack Developer → DevOps Engineer**
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayomalbanneka)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ayomalkaushalya@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ayomalbanneka)
-![Profile Views](https://komarev.com/ghpvc/?username=ayomalbanneka&color=blueviolet&style=flat-square)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Building+OpenShelf+%E2%80%94+an+open-source+e-library+platform;Next.js+%7C+Express+%7C+Prisma+%7C+PostgreSQL;Containerising+everything%2C+automating+the+rest;Cloud+%E2%80%A2+Docker+%E2%80%A2+Kubernetes+%E2%80%A2+CI%2FCD)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## About Me
+<div align="center">
 
-```typescript
-const ayomal = {
-  location : "Anuradhapura, Sri Lanka 🇱🇰",
-  education: "BSc Computer Software Engineering @ Birmingham City University",
-  currently : ["AWS & Azure", "Kubernetes", "CI/CD Pipelines"],
-  goal     : "DevOps Engineer specialising in cloud infrastructure",
-  funFact  : "Once automated my entire morning routine with Python ⚡"
-};
-```
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayomalbanneka)
+[![Portfolio](https://img.shields.io/badge/Portfolio-11001f?style=for-the-badge&logo=vercel&logoColor=white)](https://ayomalbanneka.me)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayomalkaushalya@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayomalbanneka)
+[![Profile Views](https://komarev.com/ghpvc/?username=ayomalbanneka&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/ayomalbanneka)
+
+</div>
 
 ---
 
-## Tech Stack
+## `$ whoami`
 
-**Languages**
-&nbsp; ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+```yaml
+name      : Ayomal Banneka
+location  : Anuradhapura, Sri Lanka 🇱🇰
+education : BSc (Hons) Software Engineering — Birmingham City University
+building  : OpenShelf — open-source global e-library platform
+trajectory: Full-Stack Engineer ──────────────────────▶ DevOps Engineer
+learning  : [AWS Solutions Architecture, Kubernetes, Terraform, CI/CD Pipelines]
+interests : [Open Source, Cloud-Native Architecture, Infrastructure as Code]
+```
 
-**Frontend**
-&nbsp;&nbsp;&nbsp; ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+I build full-stack web applications with a focus on clean architecture and solid DevOps foundations. Right now I'm shipping [**OpenShelf**](https://github.com/ayomalbanneka/openshelf-api) — an open-source e-library platform with a Next.js frontend, an Express/Prisma/PostgreSQL API, and real production concerns like OAuth, CSRF protection, Stripe subscriptions, and full-text search. On the infrastructure side, I'm going deep on Terraform, Kubernetes, and cloud-native deployment patterns.
 
-**Backend**
-&nbsp;&nbsp;&nbsp;&nbsp; ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+---
 
-**DevOps & Cloud**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+## 🚀 Featured Projects
+
+### 📚 [OpenShelf](https://github.com/ayomalbanneka/openshelf)
+ 
+Open-source global e-library platform — browse, search, and read digital resources. Built with a production-grade backend and a polished Next.js frontend, covering OAuth, CSRF protection, Stripe subscriptions, full-text search, discussion threads, and a complete admin dashboard.
+ 
+![Express.js](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+ 
+<br/>
+
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ☁️ [Azure Terraform — Modular VM](https://github.com/ayomalbanneka/azure-terraform-modular-vm)
+Infrastructure-as-code project deploying a 3-tier Linux VM cluster (Web / API / DB) on Azure with remote state and automated disk lifecycle.
+
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
+</td>
+<td width="50%" valign="top">
+
+### 🛒 [E-Commerce Web Application](https://github.com/ayomalbanneka/e-commerce-web-application)
+Full-featured e-commerce platform with product management, cart, and order flows — built for scale from the ground up.
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📖 [Bookly — Online Book Store](https://github.com/ayomalbanneka/Bookly)
+A REST API-backed online bookstore built with Java, HTML, CSS, and JavaScript — clean separation of frontend and backend concerns.
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔄 [Azure CI/CD — Node.js](https://github.com/ayomalbanneka/azure-ci-cd)
+Node.js application deployed to Azure App Service with a full CI/CD pipeline — a reference for cloud-native deployment patterns.
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Backend**
+
+![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**DevOps & Cloud**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 **Tools**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000?style=flat-square&logo=intellijidea&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ---
 
-## Featured Project
+## 🌱 Currently Exploring
 
-### [🗂️ Inventory Management System](https://github.com/ayomalbanneka/Inventory-Management-System)
-> Java · Apache Ant
-
-A modular Java application for managing products, stock levels, and business operations — built with a clean layered architecture.
+```
+☁️  AWS Solutions Architecture — building toward certification
+⎈   Advanced Kubernetes — StatefulSets, Helm, cluster management
+📦  Infrastructure as Code — Terraform modules and remote state
+🔁  CI/CD Pipelines — GitHub Actions, Jenkins, zero-downtime deploys
+🔒  Security-first API design — rate limiting, 2FA, token hygiene
+```
 
 ---
 
-## Currently Working On
+## 🤝 Open to Collaboration
 
-```
-☁️  AWS Solutions Architecture
-⎈  Advanced Kubernetes
-🔁  CI/CD pipeline automation
-🌐  Cloud-native application design
-```
+I'm actively looking to collaborate on **open-source DevOps tooling**, **cloud-native projects**, and **developer productivity tools**. If you're building something in the Node.js / Next.js / cloud infrastructure space, let's talk.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayomalbanneka)
+[![Portfolio](https://img.shields.io/badge/See_My_Portfolio-11001f?style=for-the-badge&logo=vercel&logoColor=white)](https://ayomalbanneka.me)
+[![Email](https://img.shields.io/badge/Drop_Me_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayomalkaushalya@gmail.com)
+
+</div>
 
 ---
 
 <div align="center">
 
-*Open to collaboration on open-source DevOps tools and cloud projects.*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,18,23&height=100&section=footer&animation=fadeIn" width="100%" alt="footer"/>
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayomalbanneka)
-[![Email](https://img.shields.io/badge/Drop_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayomalkaushalya@gmail.com)
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+*"Ship it, observe it, improve it — then repeat."*
 
 </div>

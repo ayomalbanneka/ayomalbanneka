@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Building+OpenShelf+%E2%80%94+an+open-source+e-library+platform;Next.js+%7C+Express+%7C+Prisma+%7C+PostgreSQL;Containerising+everything%2C+automating+the+rest;Cloud+%E2%80%A2+Docker+%E2%80%A2+Kubernetes+%E2%80%A2+CI%2FCD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Engineer+%E2%86%92+DevOps+Engineer;Next.js+%7C+Express+%7C+Prisma+%7C+PostgreSQL;Containerising+everything%2C+automating+the+rest;Cloud+%E2%80%A2+Docker+%E2%80%A2+Kubernetes+%E2%80%A2+CI%2FCD)](https://git.io/typing-svg)
 
 </div>
 
@@ -30,33 +30,16 @@
 name      : Ayomal Banneka
 location  : Anuradhapura, Sri Lanka 🇱🇰
 education : BSc (Hons) Software Engineering — Birmingham City University
-building  : OpenShelf — open-source global e-library platform
 trajectory: Full-Stack Engineer ──────────────────────▶ DevOps Engineer
 learning  : [AWS Solutions Architecture, Kubernetes, Terraform, CI/CD Pipelines]
 interests : [Open Source, Cloud-Native Architecture, Infrastructure as Code]
 ```
 
-I build full-stack web applications with a focus on clean architecture and solid DevOps foundations. Right now I'm shipping [**OpenShelf**](https://github.com/ayomalbanneka/openshelf-api) — an open-source e-library platform with a Next.js frontend, an Express/Prisma/PostgreSQL API, and real production concerns like OAuth, CSRF protection, Stripe subscriptions, and full-text search. On the infrastructure side, I'm going deep on Terraform, Kubernetes, and cloud-native deployment patterns.
+I build full-stack web applications with a focus on clean architecture and solid DevOps foundations. On the infrastructure side, I'm going deep on Terraform, Kubernetes, and cloud-native deployment patterns.
 
 ---
 
 ## 🚀 Featured Projects
-
-### 📚 [OpenShelf](https://github.com/ayomalbanneka/openshelf)
- 
-Open-source global e-library platform — browse, search, and read digital resources. Built with a production-grade backend and a polished Next.js frontend, covering OAuth, CSRF protection, Stripe subscriptions, full-text search, discussion threads, and a complete admin dashboard.
- 
-![Express.js](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
- 
-<br/>
-
 
 <table>
 <tr>
@@ -156,35 +139,3 @@ Node.js application deployed to Azure App Service with a full CI/CD pipeline —
 ---
 
 ## 🌱 Currently Exploring
-
-```
-☁️  AWS Solutions Architecture — building toward certification
-⎈   Advanced Kubernetes — StatefulSets, Helm, cluster management
-📦  Infrastructure as Code — Terraform modules and remote state
-🔁  CI/CD Pipelines — GitHub Actions, Jenkins, zero-downtime deploys
-🔒  Security-first API design — rate limiting, 2FA, token hygiene
-```
-
----
-
-## 🤝 Open to Collaboration
-
-I'm actively looking to collaborate on **open-source DevOps tooling**, **cloud-native projects**, and **developer productivity tools**. If you're building something in the Node.js / Next.js / cloud infrastructure space, let's talk.
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayomalbanneka)
-[![Portfolio](https://img.shields.io/badge/See_My_Portfolio-11001f?style=for-the-badge&logo=vercel&logoColor=white)](https://ayomalbanneka.me)
-[![Email](https://img.shields.io/badge/Drop_Me_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayomalkaushalya@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,18,23&height=100&section=footer&animation=fadeIn" width="100%" alt="footer"/>
-
-*"Ship it, observe it, improve it — then repeat."*
-
-</div>

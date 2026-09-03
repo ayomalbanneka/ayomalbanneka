@@ -18,6 +18,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-11001f?style=for-the-badge&logo=vercel&logoColor=white)](https://ayomalbanneka.me)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayomalkaushalya@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayomalbanneka)
+[![GitHub](https://img.shields.io/badge/Medium-181717?style=for-the-badge&logo=medium&logoColor=white)](https://ayomalbanneka.medium.com/)
 [![Profile Views](https://komarev.com/ghpvc/?username=ayomalbanneka&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/ayomalbanneka)
 
 </div>
